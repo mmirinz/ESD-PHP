@@ -1,5 +1,5 @@
-# Co-Op
-## Project: Electrostatic discharge tester with traffic displayed on the Server via Wi-Fi.
+# Co-op [Server]
+## Project: Electrostatic discharge tester.
 
 ค่าที่นำมา cal ใน GET Data เป็นค่าที่มาจากการ Calibrate จากสมการ Transfer Function แต่ละวงจรจะมีค่าแตกต่างกันออกไป
 แบ่งเป็น 2 Folder GETUNIT และ GETPOF
